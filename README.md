@@ -2,7 +2,7 @@
 
 # SQL-Project
 
-<img src="https://github.com/Jass-TheAnalyst/SQL-Consumer-Goods-Analytics/blob/main/Consumer%20Goods%20Domain%20Image.png" alt="gender-equality-img" height="400" width="1000">
+<img src="https://images7.alphacoders.com/101/1017006.png" alt="instagram-user-analytics-img" height="400" width="1000">
 
 <ul>
   <li><b>Title</b>&nbsp:&nbspData Analytics using SQL
